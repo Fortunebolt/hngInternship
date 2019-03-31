@@ -1,3 +1,1 @@
-#hngInternship
-This is task 1 for hng internship
-made a pull
+This is only a tutorial im following nothing more...
